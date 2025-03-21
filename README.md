@@ -4,7 +4,7 @@
 
 ### Compétences Clés
 
-- **Langages de programmation**: ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white) ![](https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badges&logo=javascript&logoColor=white)
+- **Langages de programmation**: ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white) ![](https://img.shields.io/badge/R-276DC3.svg?logo=R&logoColor=white)
 - **Gestion des bases de données**: ![](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/Neo4j-008CC1.svg?logo=neo4j&logoColor=white)
 - **Visualisation des données**: ![]([https://img.shields.io/badge/Power%20Bi-F2C811.svg?logo=powerbi&logoColor=white](https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&logoColor=white)) ![](https://img.shields.io/badge/Power%20Bi-F2C811.svg?logo=powerbi&logoColor=white) ![](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white) ![](https://img.shields.io/badge/Gephi-2D8CDB.svg?logo=gephi&logoColor=white) ![](https://img.shields.io/badge/R%20Shiny-75AADB.svg?logo=r&logoColor=white)
 - **Informatique en cloud**: ![](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazon-s3&logoColor=white) ![](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apache-spark&logoColor=white) ![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?logo=apache-hadoop&logoColor=white)
