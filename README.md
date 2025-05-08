@@ -12,7 +12,9 @@
   
 - **Informatique en cloud**: ![](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=amazon-aws&logoColor=white) ![](https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazon-s3&logoColor=white) ![](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apache-spark&logoColor=white) ![](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?logo=apache-hadoop&logoColor=white)
 
-- **Dev Ops** : ![](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=apache-airflow&logoColor=white) ![](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)  
+- **Dev Ops** : ![](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=apache-airflow&logoColor=white) ![](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+
+- **Cloud** : ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazon-aws&logoColor=white)
 
 ### Contactez-moi
 - LinkedIn: [https://www.linkedin.com/in/k%C3%A9vin-wirtz-159ba823b/](https://www.linkedin.com/in/roland-mondjehi-987021167/)]
