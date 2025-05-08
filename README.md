@@ -1,6 +1,6 @@
 # 👋 A propos de moi
 - Je suis Ingénieur Data et Data Scientist passionné.
-- Je suis interessé particulièrement par les infrastructures de données, le devéloppement des ETL, l'analyse et la visualisation des données. 
+- Je suis interessé particulièrement par les infrastructures de données, le devéloppement des ETL, l'analyse et la visualisation des données et par les IA.
 
 ### Compétences Clés
 
